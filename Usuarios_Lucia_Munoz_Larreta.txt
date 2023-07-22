@@ -1,0 +1,4 @@
+Usuario                               |  Contrasena 		|	Rol 
+jorge.perez@davinci.edu.ar		12341234			Administrador
+lucia.munoz@davinci.edu.ar		42679210			Superadmin
+luchylarreta@gmail.com			1234				Usuario
